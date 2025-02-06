@@ -5,7 +5,7 @@ This is an AI Agent based on the Reason-Action pattern, designed to let you ask 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
 ## Agent Tools
-* **Preview Excel Structure** – Extracts a preview of the spreadsheet to understand column names and data types, providing an overview of the dataset.
+* **Preview Excel Structure** – Extracts a preview of the spreadsheet to understand column names and data types.
 * **Simple Dataframe Query** – Executes basic queries to filter, sort, and retrieve specific data from the spreadsheet.
 * **Complex DuckDB Query** – Processes complex queries using SQL to perform aggregations, calculations, and in-depth data analysis.
 * **Create Visualization** – Generates charts and graphs to represent data visually, making trends and patterns easier to interpret.
