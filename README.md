@@ -1,6 +1,6 @@
 # Data Analytics AI Agent based on LangChain
 
-This is an AI Agent based on the Reason-Action pattern, designed to let you ask questions about your spreadsheets and receive either a text-based answer or a visualization, depending on how your question is formulated. The 
+This is an AI Agent based on the Reason-Action pattern, designed to let you ask questions about your spreadsheets and receive either a text-based answer or a visualization, depending on how your question is formulated.  
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
