@@ -32,7 +32,7 @@ cd <PROJECT_FOLDER>
 Ensure that ```<PROJECT_FOLDER>``` is accessible in JupyterLab by setting it as your working directory in JupyterLab.
  * In JupyterLab, use the "Open from Path" option to load ```DataAnalyticsAIAgent.ipynb```.
  * Similarly, load ```.env``` and populate the variable keys with appropriate values.
- * The first cell in the Notebook installs the required libraries: **%%pip install langchain langgraph pandas python-dotenv duckdb numpy**
+ * See requirements.txt for the required libraries.
 
 ### Step 3: Run the Jupyter Notebook
 
